@@ -1,2 +1,2 @@
-# PurpleRain.js
+# purple-rain-js
 Purple rain
